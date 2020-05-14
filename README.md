@@ -5,6 +5,8 @@ Simple NodeJS notes Application
 1. clone this repo
 2. run npm install
 
+Your notes are saved in notes.js file.
+
 To add a note:
 node app.js add --title="your title" -body="your body"
 
